@@ -218,6 +218,10 @@ background: #ff2600;
 transform: translateY(-10px);
 }
 
+.services-list div p{
+    line-height: 20px;
+}
+
 /* ------------certifications------------------ */
 
 #certifications{
