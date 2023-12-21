@@ -383,6 +383,15 @@ form .btn2{
     display: block;
 }
 
+#logo-text{
+    color: #ff2600;
+}
+
+#logo{
+    font-size: 35px;
+    font-weight: bolder;
+}
+
 /* 
 ----------------css for small screen----------- */
 nav .fa-solid{
@@ -404,7 +413,7 @@ nav .fa-solid{
         font-size: 30px;
     }
 
-    nav .fas{
+    nav .fa-solid{
         display: block;
         font-size: 25px;
     }
